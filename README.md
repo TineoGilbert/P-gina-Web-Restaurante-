@@ -18,3 +18,7 @@ el Restaurante al igual que una sección para poder hacer una reservación y una
 
 
 ![](img/captura1.png)
+
+![](img/captura1.png)
+
+![](img/captura1.png)
