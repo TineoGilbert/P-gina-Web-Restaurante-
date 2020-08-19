@@ -15,3 +15,6 @@ el Restaurante al igual que una sección para poder hacer una reservación y una
 
 - MDBootstrap
 - SweetAlert2
+
+
+![](img/captura1.png)
